@@ -1,0 +1,15 @@
+# Compiled files
+*.o
+*.out
+*.exe
+*.a
+*.so
+
+# Build directory
+build/
+
+# VS Code
+.vscode/
+
+# Common executable names with no extension
+a.out
